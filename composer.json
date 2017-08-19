@@ -1,0 +1,13 @@
+{
+    "name": "dft/demo",
+    "type": "projiect",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "京姐",
+            "email": "1047077433@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
